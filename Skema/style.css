@@ -1,0 +1,43 @@
+body{
+  background:#dbedaf;
+  color: ;
+  font-size: 25px;
+  font-family: Helvetica;
+
+}
+
+#banner{
+  text-align: center;
+  background-size: cover;
+  padding: 200px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+  background-image: url("https://www.visitportugal.com/sites/www.visitportugal.com/files/mediateca/23_660x371.jpg");
+}
+  
+h1{
+  font-family: Helvetica;
+  color: #FFFFFF;
+  font-weight: lighter;
+  font-size: 100px;
+}
+
+p{
+  font-family: Helvetica;
+  color: #FFFFFF;
+  font-weight: lighter;
+  font-size: 35px;
+  }
+h2 {
+  font-family: Helvetica;
+  color: ;
+  font-weight: lighter;
+  font-size: 20px;
+}
+a {
+  color: #0f840f;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
